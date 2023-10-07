@@ -1,0 +1,5 @@
+export enum BANKS {
+  MONZO = 'MONZO',
+  REVOLUT = 'REVOLUT',
+  STERLING = 'STERLING',
+}
